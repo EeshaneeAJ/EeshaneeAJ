@@ -12,7 +12,7 @@ Built a social media website focusing on environmental awareness and community b
 - **Purpose:** Encourage eco-conscious practices and connect like-minded individuals.  
 - **Tech Stack:** Python, HTML, CSS, JavaScript, Flask, MySQL.
 
-### [FC01](https://github.com/EeshaneeAJ/FC01)
+### [Voting Scheduler](https://github.com/EeshaneeAJ/FC01)
 A full-stack website built for providing voter information and enabling online slot booking for casting votes
 -**Tech Stack:** Java, HTML, CSS, JavaScript, MySQL, Spring Boot framework.
 
