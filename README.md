@@ -2,7 +2,7 @@
 Welcome to my GitHub! I'm a passionate developer exploring innovative solutions through coding. Here's a glimpse of my favorite projects:
 
 ## 🚀 Projects
-### [Avian Calls](#https://github.com/EeshaneeAJ/Avian-Calls)
+### [Avian Calls](https://github.com/EeshaneeAJ/Avian-Calls)
 Developed a bird sound classification web app using Python, Flask, and Scikit-learn.  
 - **Features:** Allows users to upload bird sound audio files for species prediction.  
 - **Tech Stack:** Python, Flask, Scikit-learn, Librosa, HTML, CSS, JavaScript.
