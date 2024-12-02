@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Eeshanee
 Welcome to my GitHub! I'm a passionate developer exploring innovative solutions through coding. Here's a glimpse of my favorite projects:
 
+---
 ## 🚀 Projects
 ### [Avian Calls](https://github.com/EeshaneeAJ/Avian-Calls)
 Developed a bird sound classification web app using Python, Flask, and Scikit-learn.  
@@ -23,6 +24,7 @@ Developed a Pet Healthcare System using Django.
 
 ### [Movie Theatre Booking System](https://github.com/EeshaneeAJ/Movie_Theatre)
 Created a ticket booking system using Python and Tkinter.  
+- **Tech Stack:**Python,MySQL
 - **Features:** Intuitive interface for movie selection, ticket booking, and receipt generation.
 
 ### [Memory Game](https://github.com/EeshaneeAJ/Memory-Game)
@@ -39,5 +41,8 @@ Developed a simple and engaging memory game.
 ## 🌱 What I'm Learning
 Currently exploring deeper concepts in machine learning and web development frameworks.
 
+---
 Feel free to check out my repositories, provide feedback, and collaborate! Let's build something impactful together. 🚀
+PS: Some projects might not work because of expired API keys and broken external dependencies.
 
+---
