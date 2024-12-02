@@ -1,24 +1,25 @@
-# 👋 Hi, I'm [Eeshanee]
+# 👋 Hi, I'm Eeshanee
 Welcome to my GitHub! I'm a passionate developer exploring innovative solutions through coding. Here's a glimpse of my favorite projects:
 
 ## 🚀 Projects
-### [Avian Calls](#)
+### [Avian Calls](#https://github.com/EeshaneeAJ/Avian-Calls)
 Developed a bird sound classification web app using Python, Flask, and Scikit-learn.  
 - **Features:** Allows users to upload bird sound audio files for species prediction.  
-- **Extra:** Includes species information display for enriched learning.
+- **Tech Stack:** Python, Flask, Scikit-learn, Librosa, HTML, CSS, JavaScript.
 
 ### [GreenWave](#)
 Built a social media website focusing on environmental awareness and community building.  
 - **Purpose:** Encourage eco-conscious practices and connect like-minded individuals.  
-- **Tech Stack:** HTML, CSS.
+- **Tech Stack:** Python, HTML, CSS, JavaScript, Flask, MySQL.
+
+### [FC01](#)
+A full-stack website built for providing voter information and enabling online slot booking for casting votes
+-**Tech Stack:** Java, HTML, CSS, JavaScript, MySQL, Spring Boot framework.
 
 ### [PetApp](#)
 Developed a Pet Healthcare System using Django.  
-- **Features:** Comprehensive platform for pet owners to manage their pets' health, including profiles, medical records, and scheduling.  
-
-### [FC01](#)
-A collaborative project forked from the **FC01** repository.  
-- **Contributions:** Assisted in implementing [specific feature] to enhance functionality.
+- **Features:** Comprehensive platform for pet owners to manage their pets' health, including profiles, medical records, and scheduling.
+- **Tech Stack:** Django 
 
 ### [Movie Theatre Booking System](#)
 Created a ticket booking system using Python and Tkinter.  
@@ -26,13 +27,14 @@ Created a ticket booking system using Python and Tkinter.
 
 ### [Memory Game](#)
 Developed a simple and engaging memory game.  
-- **Tech Stack:** Python (expand with features if any).
+- **Tech Stack:** Python
 
 ---
 
 ## 🛠️ Technologies & Tools
-**Languages:** Python, HTML, CSS ,Java 
-**Frameworks:** Flask, Django  
+**Languages:** Python, HTML, CSS,Java 
+**Frameworks:** Flask, Django 
+**Databases:** MySQL
 
 ## 🌱 What I'm Learning
 Currently exploring deeper concepts in machine learning and web development frameworks.
