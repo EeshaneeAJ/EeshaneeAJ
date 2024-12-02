@@ -13,8 +13,8 @@ Built a social media website focusing on environmental awareness and community b
 - **Tech Stack:** Python, HTML, CSS, JavaScript, Flask, MySQL.
 
 ### [Voting Scheduler](https://github.com/EeshaneeAJ/FC01)
-A full-stack website built for providing voter information and enabling online slot booking for casting votes
--**Tech Stack:** Java, HTML, CSS, JavaScript, MySQL, Spring Boot framework.
+A full-stack website built for providing voter information and enabling online slot booking for casting votes.
+- **Tech Stack:** Java, HTML, CSS, JavaScript, MySQL, Spring Boot framework.
 
 ### [PetApp](https://github.com/EeshaneeAJ/PetApp)
 Developed a Pet Healthcare System using Django.  
