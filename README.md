@@ -24,7 +24,7 @@ Developed a Pet Healthcare System using Django.
 
 ### [Movie Theatre Booking System](https://github.com/EeshaneeAJ/Movie_Theatre)
 Created a ticket booking system using Python and Tkinter.  
-- **Tech Stack:**Python,MySQL
+- **Tech Stack:** Python,MySQL
 - **Features:** Intuitive interface for movie selection, ticket booking, and receipt generation.
 
 ### [Memory Game](https://github.com/EeshaneeAJ/Memory-Game)
