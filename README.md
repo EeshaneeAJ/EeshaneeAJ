@@ -3,6 +3,10 @@ Welcome to my GitHub! I'm a passionate developer exploring innovative solutions 
 
 ---
 ## 🚀 Projects
+###  [Decentralized Voting System](https://github.com/EeshaneeAJ/Decentralized-Voting-System)
+A secure and transparent voting platform leveraging Ethereum, Solidity, and Web3.js.
+- **Features:** Decentralized voting with real-time vote tallying, authentication, and tamper-proof records.
+- **Tech Stack:** Solidity, Ethereum, Web3.js, React, Node.js, Express, Ganache, Truffle.
 ### [Avian Calls](https://github.com/EeshaneeAJ/Avian-Calls)
 Developed a bird sound classification web app using Python, Flask, and Scikit-learn.  
 - **Features:** Allows users to upload bird sound audio files for species prediction.  
@@ -34,7 +38,7 @@ Developed a simple and engaging memory game.
 ---
 
 ## 🛠️ Technologies & Tools
-**Languages:** Python, HTML, CSS,Java 
+**Languages:** Python, HTML, CSS, Java, JavaScript
 **Frameworks:** Flask, Django 
 **Databases:** MySQL
 
